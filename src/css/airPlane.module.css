@@ -1,0 +1,32 @@
+.airPlaneRoot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: auto;
+  margin: 0px;
+  padding-top: 75px;
+}
+
+.airPlaneRoot .airPlane {
+  width: 20rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.airPlaneRoot .topPlane {
+  width: 100%;
+  height: 250px;
+  margin-top: 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-image: url("../assets/topAirPlane.svg");
+}
+
+.containerPlane {
+  width: 100%;
+  height: 100%;
+  background: #23204f;
+}

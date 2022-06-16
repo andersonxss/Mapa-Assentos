@@ -1,0 +1,34 @@
+.seatsListItens {
+  display: flex;
+  justify-content: space-between !important;
+  align-items: center;
+}
+
+.seatsListItens .seatsbuttonitens {
+  margin: 2px;
+  min-width: 30px;
+  background: #23204f;
+  border: 2px white solid;
+  padding: 5px 5px;
+  /* color: red; */
+}
+
+.seatsListItens .seatsbuttonitens:hover {
+  background: #ff6575;
+  color: white;
+  border: 2px #ff6575 solid;
+}
+
+.seatsListItens .seatsbuttonitens:disabled {
+  /* background: #ff6575; */
+  color: #514c75;
+  border: 2px #514c75 solid;
+}
+
+.seatsListItens .seatsbuttonitensNumLiner {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  color: #484468;
+  font-weight: bolder;
+}
