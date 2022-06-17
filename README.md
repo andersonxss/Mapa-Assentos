@@ -2,7 +2,7 @@
 
 Sistema de seleção de assentos de uma aeronave tanto classe econômica ou classe executiva.
 
-- Link do projeto: (https://moveit-70etanlrg-andersonxss.vercel.app/)
+- Link do projeto: (https://mapa-de-assentos.herokuapp.com/)
 
 ## Tecnologias
 
