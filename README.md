@@ -9,6 +9,7 @@ Sistema de seleção de assentos de uma aeronave tanto classe econômica ou clas
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 - [React](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Material - UI](https://mui.com/)
 - [VS Code](https://code.visualstudio.com/) com [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) e [EditorConfig](https://editorconfig.org/)
 
